@@ -1,6 +1,6 @@
 # android-login-source-fixed
 android-login-source-fixed by MrTusarRX
 
-this source fixed by me
+THIS SRC HAS SOME ISSUE WITH LOGIN
 
 this project creat by © MrDarkRX and © springmusk026
