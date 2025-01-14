@@ -1,6 +1,5 @@
 # android-login-source-fixed
 android-login-source-fixed by MrTusarRX
 
-this source find text i am fixed 
-
+THIS SRC HAS SOME ISSUE WITH LOGIN SYSTEM 
 this project creat by © MrDarkRX and © springmusk026
